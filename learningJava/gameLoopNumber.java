@@ -21,7 +21,7 @@ public class gameLoopNumber {
                 System.out.println("Você acertou!");
                 break;
             }else{
-                if(numeroAleatorio > numeroAleatorio){
+                if(numeroAleatorio > tentativaUsuario){
                     System.out.println("Numero aleatório maior que o escolhido! Tente novamente.");
                 }else{
                     System.out.println("Numero aleatório menor que o escolhido! Tente novamente.");
