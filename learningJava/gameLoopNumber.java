@@ -26,7 +26,6 @@ public class gameLoopNumber {
                 }else{
                     System.out.println("Numero aleatório menor que o escolhido! Tente novamente.");
                 }
-               //System.out.println("Você errou! Tente novamente.");
             }
 
         }
